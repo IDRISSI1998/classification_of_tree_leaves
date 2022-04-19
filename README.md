@@ -1,12 +1,12 @@
-IFT712-Projet
+Machine learning course project UdeS - Projet
 ==============================
 
-End of semester project of IFT712 for USherbrooke.  
+End of semester project of Machine learning course at USherbrooke.  
 Program written by: **Shawn Vosburg and Ismail Idrissi**
 
 Problem sypnosis
 ----------------
-In the context of the **IFT712 - Techniques d'apprentissage** course offered at the University of Sherbrooke,
+In the context of the **Techniques d'apprentissage (Machine learning)** course offered at the University of Sherbrooke,
 students in groups of 1 or 2 are asked to test the performance of 6 different machine learning algorithms on 
 a Kaggle dataset. The choice of algorithms is left up to the students. The sklearn python library is to be used for the algorithm implementations.  
 
